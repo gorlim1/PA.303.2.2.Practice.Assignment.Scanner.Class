@@ -1,8 +1,6 @@
 import ScannerClasses.Scan_3_Ints;
 import ScannerClasses.Scan_Int_Double_String;
 
-import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
 
